@@ -1,2 +1,2 @@
 # Kill_the_Bear
-Enkelt spel om att döda en björn
+Mitt första spel. Spelet går ut på att döda en björn med RPG liknande combat.
